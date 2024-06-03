@@ -88,10 +88,10 @@ img {
     width: 200px;
     border: 2px solid #fff;
     border-radius: 50%;
-    position: absolute; /* 絕對定位 */
+    position: absolute;
     margin-top: 8vw;
-    left: 50%; /* 設定距離左方50% */
-    transform: translate(-50%, -50%); /* 使用變換來置中 */
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .about {
@@ -100,17 +100,17 @@ img {
 }
 
 .aboutme {
-    position: absolute; /* 絕對定位 */
+    position: absolute;
     margin-top: 20vw;
-    left: 50%; /* 設定距離左方50% */
-    transform: translate(-50%, -50%); /* 使用變換來置中 */
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .aboutme h3 {
-    position: absolute; /* 絕對定位 */
+    position: absolute;
     margin-top: -1vw;
-    left: 50%; /* 設定距離左方50% */
-    transform: translate(-50%, -50%); /* 使用變換來置中 */
+    left: 50%;
+    transform: translate(-50%, -50%);
     font-size: 3.3em;
     font-family: "Roboto Slab", "cwTeXYen", sans-serif;
 }
@@ -130,19 +130,19 @@ img {
 }
 
 .aboutme_1 h3 {
-    position: absolute; /* 絕對定位 */
+    position: absolute;
     margin-top: 11.3vw;
-    left: 50%; /* 設定距離左方50% */
-    transform: translate(-50%, -50%); /* 使用變換來置中 */
+    left: 50%;
+    transform: translate(-50%, -50%);
     font-size: 3.3em;
     font-family: "Roboto Slab", "cwTeXYen", sans-serif;
 }
 
 .aboutme_1 p {
-    position: absolute; /* 絕對定位 */
+    position: absolute;
     margin-top: 15vw;
-    left: 50%; /* 設定距離左方50% */
-    transform: translate(-50%, -50%); /* 使用變換來置中 */
+    left: 50%;
+    transform: translate(-50%, -50%);
     font-size: 1.8em;
     font-family: "Roboto Slab", "cwTeXYen", sans-serif;
 }
